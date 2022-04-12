@@ -1,0 +1,23 @@
+{
+    "name": "whatsapp-chat-boot",
+    "version": "1.0.1",
+    "description": "this module is used for implementing a chat boot for sending custom message",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AnasEssahl/whatsapp-chat-boot"
+    },
+    "keywords": [
+        "whatsapp-chat-boot",
+        "bulle",
+        "chat",
+        "boot",
+        "api",
+        "whatsapp"
+    ],
+    "author": "Essahl anas",
+    "license": "ISC"
+}
