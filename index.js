@@ -1,4 +1,4 @@
-module.exports = class Sender {
+class Sender {
     constructor(number, message) {
         this.number = number;
         this.message = message;
