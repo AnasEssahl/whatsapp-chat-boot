@@ -1,6 +1,6 @@
 {
     "name": "whatsapp-chat-boot",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "this module is used for implementing a chat boot for sending custom message",
     "main": "index.js",
     "scripts": {
